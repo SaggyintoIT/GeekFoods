@@ -43,7 +43,7 @@ export const bodyItem = {
 };
 
 export const footer = {
-  text: "Copyright@2012 Santosh.com All right Reserved. ",
+  text: "Sagar Kumar",
 };
 
 export const img = [pic1, pic2, pic3, pic4, pic5];
